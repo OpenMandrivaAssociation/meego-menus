@@ -6,6 +6,11 @@ Group: System/Desktop
 License: GPLv2
 URL: https://www.meego.com
 Source0: %{name}-%{version}.tar.gz
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires: intltool
 BuildRequires: gettext
 Obsoletes: moblin-menus < 0.2.0
