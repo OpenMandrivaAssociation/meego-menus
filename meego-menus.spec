@@ -1,7 +1,7 @@
 Name: meego-menus
 Summary: Configuration and data files for the desktop menus
 Version: 0.2.0
-Release: %mkrel 1
+Release: 2
 Group: System/Desktop
 License: GPLv2
 URL: https://www.meego.com
